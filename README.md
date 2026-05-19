@@ -17,7 +17,7 @@ Nome: Frank Carvalho
 Curso: Análise e Desenvolvimento de Sistemas
 Cargo: Desenvolvedor Backend em formação
 Foco: APIs REST, Automação e Banco de Dados
-Linguagens: JavaScript e Python
+Linguagens: JavaScript, Python e Java
 Status: Evoluindo um projeto por vez...
 ```
 
@@ -27,7 +27,7 @@ Status: Evoluindo um projeto por vez...
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,mysql,postgres,git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,java,mysql,postgres,git,github,linux,vscode" />
 
 </div>
 
