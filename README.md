@@ -27,7 +27,7 @@ Status: Evoluindo um projeto por vez...
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,php,html,css,js,bootstrap,wordprees,flask,mysql,sqlite,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=py,java,php,html,css,js,bootstrap,flask,mysql,sqlite,git,github,linux,vscode" />
 
 </div>
 
@@ -40,14 +40,12 @@ Status: Evoluindo um projeto por vez...
 📌 APIs REST
 📌 Node.js
 📌 Banco de Dados SQL
-📌 Docker
-📌 Google Apps Script
 📌 Automação de Processos
 📌 Arquitetura Backend
 ```
 
 ---
-
+<!--
 # 📦 Projetos em destaque
 
 ```txt
@@ -59,14 +57,14 @@ Status: Evoluindo um projeto por vez...
 ```
 
 ---
-
+-->
 # 📊 Estatísticas GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrankSCarvalho&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSCarvalho&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -76,7 +74,7 @@ Status: Evoluindo um projeto por vez...
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=FrankSCarvalho&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -87,13 +85,12 @@ Status: Evoluindo um projeto por vez...
 ```js
 const frank = {
 
-  linguagens: ["JavaScript", "Python"],
+  linguagens: ["JavaScript", "Python", "Java"],
 
   backend: {
-    runtime: "Node.js",
+    runtime: "Java",
     bancoDeDados: ["MySQL", "PostgreSQL"],
-    aprendendo: [
-      "Docker",
+    aprendendo: [      
       "APIs REST",
       "Arquitetura Backend"
     ]
@@ -118,11 +115,11 @@ const frank = {
 
 <div align="center">
 
-<a href="SEU_LINK_LINKEDIN" target="_blank">
+<a href="http://www.linkedin.com/in/FrankSCarvalho" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-001F3F?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:frank.faculdadeadm@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-001F3F?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
