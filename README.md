@@ -1,59 +1,20 @@
-# Olá, eu sou Frank Carvalho 👋
+<div align="center">
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em desenvolvimento web, automação e análise de dados  
-🚀 Aprendendo JavaScript, Google Apps Script, Python e Power BI  
-📚 Sempre explorando novas tecnologias e criando projetos práticos
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=120&section=header"/>
 
----
+# < Hello World, I'm Frank Carvalho />
 
-## 🚀 Tecnologias que estudo
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Backend+Developer+in+progress...;JavaScript+%7C+Python+%7C+APIs;Automation+and+Data+Projects;Always+learning+new+technologies" />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-  <img align="center" alt="HTML" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-  <img align="center" alt="CSS" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-  <img align="center" alt="Python" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-  <img align="center" alt="Git" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ---
 
-## 📌 Atualmente estudando
+```bash
+> whoami
 
-- Google Apps Script
-- Desenvolvimento Web
-- Manipulação de JSON
-- Automação com Planilhas Google
-- Power BI e visualização de dados
-
----
-
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
-
----
-
-## ✨ Frase
-
-_"Transformando aprendizado em projetos reais."_
+Name: Frank Carvalho
+Role: Backend Developer Student
+Focus: APIs, Automation, Databases, Backend Systems
+Location: Brazil
+Status: Building projects and evolving every day
