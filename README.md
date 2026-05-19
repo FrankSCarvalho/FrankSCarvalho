@@ -57,7 +57,7 @@ Status: Evoluindo um projeto por vez...
 ```
 
 ---
--->
+
 # 📊 Estatísticas GitHub
 
 <div align="center">
@@ -69,7 +69,7 @@ Status: Evoluindo um projeto por vez...
 </div>
 
 ---
-
+-->
 # 🔥 Sequência de commits
 
 <div align="center">
