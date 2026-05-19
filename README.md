@@ -27,7 +27,7 @@ Status: Evoluindo um projeto por vez...
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,java,mysql,postgres,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,java,bootstrap,mysql,postgres,git,github,linux,vscode" />
 
 </div>
 
