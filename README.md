@@ -4,7 +4,7 @@
 
 # < Hello World, I´m Frank Carvalho />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Backend+em+formação...;JavaScript+%7C+Node.js+%7C+Python;APIs+REST+e+Automação;Construindo+projetos+reais;Sempre+aprendendo+novas+tecnologias" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Backend+em+formação...;JavaScript+%7C+Node.js+%7C+Python+Java;APIs+REST+e+Automação;Construindo+projetos+reais;Sempre+aprendendo+novas+tecnologias" />
 
 </div>
 
