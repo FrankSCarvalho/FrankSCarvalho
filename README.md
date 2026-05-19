@@ -4,7 +4,7 @@
 
 # < Hello World, I´m Frank Carvalho />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Backend+em+formação...;JavaScript+%7C+Java+%7C+Python;APIs+REST+e+Automação;Construindo+projetos+reais;Sempre+aprendendo+novas+tecnologias" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Backend+em+formação...;JavaScript+%7C+Java+%7C+Python+%7C+PHP;APIs+REST+e+Automação;Construindo+projetos+reais;Sempre+aprendendo+novas+tecnologias" />
 
 </div>
 
@@ -17,7 +17,7 @@ Nome: Frank Carvalho
 Curso: Análise e Desenvolvimento de Sistemas
 Cargo: Desenvolvedor Backend em formação
 Foco: APIs REST, Automação e Banco de Dados
-Linguagens: JavaScript, Python e Java
+Linguagens: JavaScript, Python, Java e PHP
 Status: Evoluindo um projeto por vez...
 ```
 
@@ -37,8 +37,9 @@ Status: Evoluindo um projeto por vez...
 
 ```txt
 📌 Desenvolvimento Backend
+📌 Java
+📌 Python
 📌 APIs REST
-📌 Node.js
 📌 Banco de Dados SQL
 📌 Automação de Processos
 📌 Arquitetura Backend
@@ -85,10 +86,10 @@ Status: Evoluindo um projeto por vez...
 ```js
 const frank = {
 
-  linguagens: ["JavaScript", "Python", "Java"],
+  linguagens: ["JavaScript", "Python", "Java","PHP"],
 
   backend: {
-    runtime: "Java",
+    runtime: "Node.js",
     bancoDeDados: ["MySQL", "PostgreSQL"],
     aprendendo: [      
       "APIs REST",
@@ -145,13 +146,7 @@ while True:
 
 ---
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=FrankSCarvalho&theme=algolia&no-frame=true&row=1"/>
-
-</div>
-
----
 
 <div align="center">
 
